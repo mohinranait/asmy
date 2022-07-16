@@ -1,0 +1,14 @@
+Modal name,
+1. Category,
+2. Sub_category,
+3. District,
+4. Division,
+5. user,
+6. Color,
+7. cards
+8. brands
+9. colors
+10. orders
+11. product
+12. products image
+13. AppsSettin,
